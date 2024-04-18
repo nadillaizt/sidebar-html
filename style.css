@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap');
 
 /* Reset CSS */
 * {
@@ -192,11 +193,4 @@ body {
   border: 1px solid #f6f6f6;
   background-color: #fff;
   box-shadow: 0px 10px 8px rgba(0, 0, 0, 0.1);
-}
-
-.credits {
-  margin: 0 auto;
-  color: #fff;
-  text-align: center;
-  font-size: 3rem;
 }
